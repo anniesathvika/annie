@@ -10,3 +10,10 @@ print('b is big')
 if c>a:
 if c>b:
 print('c is big')
+
+
+output
+enter a:20
+  enter b:30
+    enter c:40
+      c is big
